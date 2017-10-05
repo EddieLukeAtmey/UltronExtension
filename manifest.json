@@ -1,0 +1,11 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "GoogleUltron.html"
+   },
+   "description": "You want Ultron Browser in newtab? Here you are.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwBKDKyb16Y0Khlt1qJfY69JpUqCaXdKhI9UXxPa/2RR5ZRLQ6+9cDqlSDLd0/L4FRBet6NZfSrmJMMtIekAxtWDZWU4+82nLVlDcYAQq8jnmltlkfgyXMpgCeQw+/kzMGBbBAm1wH6Nty9ckM1Fb5WcjNkpb0NU6eTr8wpRfXJV/AAb+/PWHLgD15uWTdtYgt02yLrJZ/gEJkgJ/1Sda23dc9O3ZAsuZrFSva2z/0zmH6bCPJWEf3FpH6y2bEiGz5cclpCTi4uVjOviv25es3qdwaAZ6ZLtg9q915LgYR9OqBicv8LWVX9OhREtEYECF1KC0e7qKfvHbuTvywDhqmwIDAQAB",
+   "manifest_version": 2,
+   "name": "Ultron Browser NewTab Page",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.1"
+}
